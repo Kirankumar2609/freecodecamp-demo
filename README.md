@@ -1,3 +1,3 @@
 # Demo
 
-Free codecamp tutorial for git and github
+Freecodecamp tutorial for git and github!
